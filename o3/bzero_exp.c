@@ -10,3 +10,6 @@ int main()
 	printf("bzero:memory is :%s\n",p2);
 	return 0;
 }
+
+
+
