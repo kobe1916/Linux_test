@@ -30,3 +30,10 @@ int main(int argc,char **argv)
 	ftruncate(fd,length+strlen(buf));
 	return 0;
 }
+
+
+// gcc -o 115 115.c
+//./115 115.c
+// HELLOWORLD
+//100
+//cat 115.c
